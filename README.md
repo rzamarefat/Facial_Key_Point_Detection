@@ -5,3 +5,7 @@
 ![landmarks_e5634f68](https://user-images.githubusercontent.com/79300456/197869131-975cad41-0b3e-4e70-a373-791d4f45aa2c.jpg)
 ### Inference
 You can use infer.py module for facial keypoint detection.
+```
+path_to_img = "path_to_img"
+infer_and_show(path_to_img)
+```
